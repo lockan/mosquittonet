@@ -33,7 +33,8 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 # Copy node-red configs over to the data folder
 sudo mkdir /data/node-red
-sudo cp ./node-red/*.json /data/node-red/
+#sudo cp ./node-red/*.json /data/node-red/
+echo "REM: moved config data (flows.json) out to private repo. Don't forget to go get it!"
 
 echo "Rebooting instance to initialize docker-compose"
 sudo reboot
