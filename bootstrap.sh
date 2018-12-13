@@ -35,5 +35,5 @@ sudo chmod +x /usr/local/bin/docker-compose
 sudo mkdir /data/node-red
 sudo cp ./node-red/*.json /data/node-red/
 
-echo "Rebooting instance to initialize docker-compose""
+echo "Rebooting instance to initialize docker-compose"
 sudo reboot
