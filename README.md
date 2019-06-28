@@ -1,4 +1,6 @@
 # mosquittonet
 A dockerized mosquitto + node-red IOT stack
 
-This repo is no longer being maintained, but has been kept here for public reference. 
+This project has been moved out of the public domain for now. 
+As such, this repo is no longer being maintained, but has been kept here for public reference.
+
