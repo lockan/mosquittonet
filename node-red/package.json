@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "node-red-dashboard": "~2.9.8",
+    "node-red-dashboard": "~2.17.1",
     "node-red-node-mongodb": "0.0.14",
     "node-red-contrib-credentials": "~0.2.1"
   }
